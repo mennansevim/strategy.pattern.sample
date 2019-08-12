@@ -6,7 +6,8 @@ namespace StategyDesignPattern
     {
         static void Main(string[] args)
         {
-             TransferOperation transferOperation = null;
+            
+         TransferOperation transferOperation = null;
          // -- Parametrenin Email geldiğini varsayıyorum
          var tType = TransferType.EMAIL;
 
