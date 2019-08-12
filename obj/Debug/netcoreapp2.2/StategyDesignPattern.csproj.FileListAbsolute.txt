@@ -1,0 +1,11 @@
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/bin/Debug/netcoreapp2.2/StategyDesignPattern.deps.json
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/bin/Debug/netcoreapp2.2/StategyDesignPattern.runtimeconfig.json
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/bin/Debug/netcoreapp2.2/StategyDesignPattern.runtimeconfig.dev.json
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/bin/Debug/netcoreapp2.2/StategyDesignPattern.dll
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/bin/Debug/netcoreapp2.2/StategyDesignPattern.pdb
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.csprojAssemblyReference.cache
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.AssemblyInfoInputs.cache
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.AssemblyInfo.cs
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.dll
+/Users/mennansevim/Documents/VsCodeProjects/StategyDesignPattern/obj/Debug/netcoreapp2.2/StategyDesignPattern.pdb
