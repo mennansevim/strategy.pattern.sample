@@ -28,7 +28,7 @@ namespace StategyDesignPattern
          }
 
          // -- Transfer işlemini gerçekleştir.
-         transferOperation.Transfer();
+         transferOperation.Send();
          Console.ReadLine();
        }
     }
