@@ -6,7 +6,7 @@ namespace StategyDesignPattern
  // ConcreteStrategy > DoTransfer metodumuzun içini email gönderim işlemlerimiz ile dolduruyoruz
     class EmailOperation : ITransfer
     {
-        public void DoTransfer()
+        public void Send()
         {
             Console.WriteLine("Email gönderildi.");
         }
