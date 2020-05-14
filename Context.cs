@@ -17,7 +17,7 @@ namespace StategyDesignPattern
             this._transfer = transfer;
         }
 
-        public void Transfer()
+        public void Send()
         {
             this._transfer.Send();
         }
