@@ -19,7 +19,7 @@ namespace StategyDesignPattern
 
         public void Transfer()
         {
-            this._transfer.DoTransfer();
+            this._transfer.Send();
         }
     }
 }
