@@ -8,10 +8,10 @@ namespace StategyDesignPattern
         {
             
          TransferOperation transferOperation = null;
-         // -- Parametrenin Email geldiğini varsayıyorum
+
          var tType = TransferType.EMAIL;
 
-         // -- Türe göre oluşacak nesneyi oluşturuyoruz.
+
          switch(tType)
          {
              case TransferType.SMS: 
@@ -27,7 +27,7 @@ namespace StategyDesignPattern
              break;
          }
 
-         // -- Transfer işlemini gerçekleştir.
+
          transferOperation.Send();
          Console.ReadLine();
        }
